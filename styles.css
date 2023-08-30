@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+p{
+	display:flex;
+	flex-wrap:wrap;
+}
